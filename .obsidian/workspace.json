@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "1ab9807848483530",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c22d24f0b840bce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f33bc975b6c099c7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "690f272c0e41c3f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce0940a1ab39ebe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bdcc07b4a3eb1e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b644dc9a64e28bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9f3958dc0fbfaff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15a92b58c265f6ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c5fbc3cd9a3ebbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbcf72495366c850",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4e6338ab97567ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5480770c9289a824",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be4f6e0509502255",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false
+    }
+  },
+  "active": "f33bc975b6c099c7",
+  "lastOpenFiles": [
+    "w.md",
+    "README (1).md",
+    "[Алгоритм.md",
+    "Слова/Різдвяні свята.md",
+    "Слова/Пори року.md",
+    "Правила/Дати.md",
+    "Правила/Вимова двознака rz від позиції у слова.md",
+    "Слова/Сім'я.md",
+    "Слова/Цифри.md",
+    "Твори/Święto Bożego Narodzenia/Переклад твору Різдво Христове.md",
+    "Твори/Święto Bożego Narodzenia/Święto Bożego Narodzenia.md",
+    "Твори/Твори.md",
+    "Твори/Święto Bożego Narodzenia",
+    "2024-01-02.md",
+    "Скорочення/Скорочення.md",
+    "Твори/Profesje/Profesje.md",
+    "Скорочення",
+    "Слова/Дні тижня.md",
+    "Наголос у польській мові.md",
+    "Лічельні цифри.md",
+    "Без назви.canvas",
+    "Слова/Професія.md",
+    "Слова/Слова.md",
+    "Слова/Часи.md",
+    "Твори/Przepraszanie, wybaczanie/Переклад твору Przepraszanie, wybaczanie.md",
+    "Твори/Profesje/Переклад твору Profesje.md",
+    "Твори/Profesje",
+    "Слова/Перелічувальні цифри.md",
+    "Правила/Двознаки.md",
+    "Правила/Польська.md",
+    "Твори/Opis pryrody",
+    "Переклад твору Opsis pryrody",
+    "Твори/Mesiące",
+    "Твори/Na wycieczkę"
+  ]
+}
