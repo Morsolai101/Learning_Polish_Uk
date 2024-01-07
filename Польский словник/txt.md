@@ -1,0 +1,1 @@
+Було взято в [archive](https://archive.org/details/pol0ukr)

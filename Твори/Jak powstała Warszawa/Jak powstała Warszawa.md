@@ -24,7 +24,7 @@ I tak się stało. Mała wioska urosła w wielkie miasto. Jego nazwa powstała z
 ---
 Gość w dom, Bóg w dom.
 
-------------------------
+---
 Зноска на сторінки
 #Твори 
 [[Твори]]
