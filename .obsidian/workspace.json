@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7187a5a699905e1",
+        "id": "ea5b4b63d6d6acc2",
         "type": "tabs",
         "children": [
           {
-            "id": "98272abfbd036de3",
+            "id": "8999751db490246d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Слова/Пори року.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Слова/Пори року.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Слова/Пори року.md"
+              }
             }
           }
         ],
@@ -139,13 +143,19 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "98272abfbd036de3",
+  "active": "2bdcc07b4a3eb1e1",
   "lastOpenFiles": [
-    "Без назви.md",
-    "Слова.pdf",
+    "Польська фото/img011.jpg",
+    "Польська фото/img004.jpg",
+    "Польська фото/img003.jpg",
+    "Слова/Пори року.md",
+    "Слова/Професія.md",
+    "Слова/Сім'я.md",
     "Слова/Слова.md",
     "Слова/Цифри.md",
     "Слова/Часи.md",
+    "Без назви.md",
+    "Слова.pdf",
     "Твори/Boże Narodzenie/Переклад твору Boże Narodzenie.md",
     "Твори/Boże Narodzenie/Boże Narodzenie.md",
     "Твори/Święto Bożego Narodzenia/Święto Bożego Narodzenia.md",
@@ -165,10 +175,6 @@
     "Правила/Важкі сполучення приголосних.md",
     "Правила/Двознаки.md",
     "Правила/Польська.md",
-    "Наголос у польській мові.md",
-    "Правила/Вимова двознака rz від позиції у слова.md",
-    "Правила/Алфавіт польський.md",
-    "x.md",
     "Твори/Święto Bożego Narodzenia",
     "Скорочення",
     "Без назви.canvas",
