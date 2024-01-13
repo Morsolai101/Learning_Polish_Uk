@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3c22d24f0b840bce",
+        "id": "ea5b4b63d6d6acc2",
         "type": "tabs",
         "children": [
           {
-            "id": "f33bc975b6c099c7",
+            "id": "8999751db490246d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Слова/Пори року.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Слова/Пори року.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Слова/Пори року.md"
+              }
             }
           }
         ],
@@ -139,38 +143,42 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "f33bc975b6c099c7",
+  "active": "2bdcc07b4a3eb1e1",
   "lastOpenFiles": [
-    "w.md",
-    "README (1).md",
-    "[Алгоритм.md",
-    "Слова/Різдвяні свята.md",
+    "Польська фото/img011.jpg",
+    "Польська фото/img004.jpg",
+    "Польська фото/img003.jpg",
     "Слова/Пори року.md",
-    "Правила/Дати.md",
-    "Правила/Вимова двознака rz від позиції у слова.md",
-    "Слова/Сім'я.md",
-    "Слова/Цифри.md",
-    "Твори/Święto Bożego Narodzenia/Переклад твору Різдво Христове.md",
-    "Твори/Święto Bożego Narodzenia/Święto Bożego Narodzenia.md",
-    "Твори/Твори.md",
-    "Твори/Święto Bożego Narodzenia",
-    "2024-01-02.md",
-    "Скорочення/Скорочення.md",
-    "Твори/Profesje/Profesje.md",
-    "Скорочення",
-    "Слова/Дні тижня.md",
-    "Наголос у польській мові.md",
-    "Лічельні цифри.md",
-    "Без назви.canvas",
     "Слова/Професія.md",
+    "Слова/Сім'я.md",
     "Слова/Слова.md",
+    "Слова/Цифри.md",
     "Слова/Часи.md",
-    "Твори/Przepraszanie, wybaczanie/Переклад твору Przepraszanie, wybaczanie.md",
-    "Твори/Profesje/Переклад твору Profesje.md",
-    "Твори/Profesje",
-    "Слова/Перелічувальні цифри.md",
+    "Без назви.md",
+    "Слова.pdf",
+    "Твори/Boże Narodzenie/Переклад твору Boże Narodzenie.md",
+    "Твори/Boże Narodzenie/Boże Narodzenie.md",
+    "Твори/Święto Bożego Narodzenia/Święto Bożego Narodzenia.md",
+    "Твори/Jak powstała Warszawa/Jak powstała Warszawa.md",
+    "Твори/Dwa koziołki/Dwa koziołki.md",
+    "Твори/Przepraszanie, wybaczanie/Przepraszanie, wybaczanie.md",
+    "Твори/Święto Bożego Narodzenia/Переклад твору Різдво Христове.md",
+    "Твори/Твори.md",
+    "Твори/Jak powstała Warszawa/Переклад твору Jak powstała Warszawa.md",
+    "Твори/Boże Narodzenie",
+    "Правила/Дати.md",
+    "Без назви 1.md",
+    "Правила/Години.md",
+    "Правила/Ненаголошені слова енклітика і проклітика.md",
+    "Правила/Наголоси в польській мові.md",
+    "Правила/М'який знак у польській мові.md",
+    "Правила/Важкі сполучення приголосних.md",
     "Правила/Двознаки.md",
     "Правила/Польська.md",
+    "Твори/Święto Bożego Narodzenia",
+    "Скорочення",
+    "Без назви.canvas",
+    "Твори/Profesje",
     "Твори/Opis pryrody",
     "Переклад твору Opsis pryrody",
     "Твори/Mesiące",
